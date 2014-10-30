@@ -2,4 +2,4 @@ VisioEQ
 =======
 
 VisioEQ
-![Alternativtext](Bild-URL "http://www.psdgraphics.com/file/music-equalizer.jpg")
+![Alternativtext](Bild-URL "C:\Users\armin\Documents\Schule\4AHWI\PPM\VisioEQ\Logo.PNG")
